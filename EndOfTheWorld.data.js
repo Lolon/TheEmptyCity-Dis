@@ -180,6 +180,6 @@ Module['FS_createPath']('/EndOfTheWorld/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 53, "crunched": 0, "end": 99, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 99, "crunched": 0, "end": 129403547, "filename": "/EndOfTheWorld/Content/Paks/EndOfTheWorld-HTML5.pak"}], "remote_package_size": 129403547, "package_uuid": "e6aeda72-75e5-44bb-9d6a-5f2687dbe1ed"});
+ loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 53, "crunched": 0, "end": 99, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 99, "crunched": 0, "end": 124007444, "filename": "/EndOfTheWorld/Content/Paks/EndOfTheWorld-HTML5.pak"}], "remote_package_size": 124007444, "package_uuid": "bdb466dc-2a75-4575-a89c-fcb6a60a7719"});
 
 })();
